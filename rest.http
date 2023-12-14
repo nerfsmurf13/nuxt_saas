@@ -1,0 +1,4 @@
+get https://api.spacexdata.com/v3/missions
+####
+
+get localhost:3000/api/hello
